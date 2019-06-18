@@ -48,7 +48,7 @@ avatar: "https://res.cloudinary.com/brandafrik-com/image/upload/v1560855292/sede
 
 navbar-img: "https://res.cloudinary.com/brandafrik-com/image/upload/v1560856951/debrand.jpg"
 navbar-text-col: "#FFFFFF"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#000000"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -68,7 +68,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: OC100
+  name: ©DevSed
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -79,9 +79,9 @@ social-network-links:
   email: "prosper@startupgrind.com"
   facebook: daattali
   github: daattali
-  twitter: daattali
+  #twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
