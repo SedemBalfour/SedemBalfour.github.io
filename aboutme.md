@@ -8,7 +8,7 @@ My name is **Ocloo Prosper Sedem Balfour**. Yeah I know I bear a long name, just
 
 - I have a great team (**Family**)
 - I love Entrepreneurs/Hustlers 
-- I am an Aspiring Entrepreneur
+- I'm an Entrepreneur in training (**LifeLong Learner**)
 
 
 
