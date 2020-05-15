@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Just another HUSTLER
-subtitle: Wanna know more? mail me
+subtitle: Wanna know more? mail_to "sedem@brandafrik.com", "mail me"
 ---
 
 My name is **Ocloo Prosper Sedem Balfour**. Yeah I know I bear a long name, just call me **SED**:
@@ -14,4 +14,4 @@ My name is **Ocloo Prosper Sedem Balfour**. Yeah I know I bear a long name, just
 
 ### My Story
 
-I have failed over and over but I keep **winning**, I guess am just **LUCKY** 
+I have failed a lot of times but I keep **winning**, I guess am just **LUCKY** 
