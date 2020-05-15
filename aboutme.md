@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Just another HUSTLER
-subtitle: Wanna know more? mail_to "sedem@brandafrik.com", "mail me"
+subtitle: Wanna know more? mail me
 ---
 
 My name is **Ocloo Prosper Sedem Balfour**. Yeah I know I bear a long name, just call me **SED**:
